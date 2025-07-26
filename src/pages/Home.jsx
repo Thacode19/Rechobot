@@ -5,8 +5,8 @@ export default function Home() {
 
   const projectImages = [
     'https://res.cloudinary.com/dxu5lomow/image/upload/v1752227141/pexels-julia-m-cameron-6994946_cjsf2w.jpg',
-    'https://res.cloudinary.com/dxu5lomow/image/upload/v1752227141/project2.jpg',
-    'https://res.cloudinary.com/dxu5lomow/image/upload/v1752227141/project3.jpg'
+    'https://res.cloudinary.com/dxu5lomow/image/upload/v1753536024/images_t7qrx6.jpg',
+    'https://res.cloudinary.com/dxu5lomow/image/upload/v1753536312/imagessw_sqncjs.jpg'
   ];
 
 
