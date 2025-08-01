@@ -12,7 +12,9 @@ export default function Home() {
 
     return(
         <div>
-            
+         <div>
+          <h1>test</h1>
+          </div>   
             
     {/* <div className="relative bg-gradient-to-r from-purple-600 to-blue-600 h-screen text-white overflow-hidden">
     <div className="absolute inset-0">
